@@ -91,7 +91,7 @@ function App() {
       <main className="main">
         <header className="header">
           <div>
-            <p className="greeting">Good evening 👋</p>
+            <p className="greeting">Good evening from Preview 👋</p>
             <h1>My Dashboard</h1>
             <p className="muted">Stay organized and keep your work moving.</p>
           </div>
